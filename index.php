@@ -99,7 +99,7 @@ else
 
 <body align="center">  
     <div id = "frm">  
-        <h1>Login Form cerated</h1>  
+        <h1>Login System</h1>  
         <form action="#" method="post">
             <p>  
                 <label> Email: </label>  
