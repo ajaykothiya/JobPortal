@@ -10,9 +10,12 @@
     use Aws\DynamoDb\Exception\DynamoDbException;
 
     $client = new DynamoDbClient([
-        'profile' => 'default',
         'region'  => 'us-east-1',
-        'version' => 'latest'
+        'version' => 'latest',
+        'credentials' => array(
+            'key' => 'AKIAQU5YQXS6OS3GQUVC',
+            'secret'  => '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',
+        )
         
 ]);
 
