@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "F:\\software\\js"
+		},
+		{
+			"path": "..\\..\\..\\..\\project\\fullcalendar-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fullcalendar-master"
+	}
+}
